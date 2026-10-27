@@ -23,5 +23,6 @@ public class Switch {
                 break;
             default:
                 System.out.println("Other status");}
+        int a = 15;
     }
 }
