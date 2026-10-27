@@ -24,7 +24,6 @@ public class Switch {
             default:
                 System.out.println("Other status");}
 
-        int A =3;
 
     }
 }
