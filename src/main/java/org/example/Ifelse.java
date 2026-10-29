@@ -56,6 +56,7 @@ amocana: ამოცანა:
 
         //mesame amocana
         /*An unda davwerot simaglidand abla an und shemovitanot zgvrebi rom bug ar iyos chvens nawershi*/
+        //Remember: With if - else if - else, Java executes only the first matching branch and skips the rest.
 
 
         int finalScore = 85;
